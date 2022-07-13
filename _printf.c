@@ -4,7 +4,7 @@
  * _printf - a function that selects the correct fuction to print
  * @format: the format string
  *
- * Return: length of the string
+ * Return: length of the task
  */
 int _printf(const char *format, ...)
 {
