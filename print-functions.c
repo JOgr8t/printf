@@ -5,7 +5,7 @@
  * @ap: argument pointer
  * @params: the parameters struct
  *
- * Return: number chars printed
+ * Return: number chars print
  */
 
 int print_char(va_list ap, params_t *params)
