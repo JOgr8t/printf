@@ -4,7 +4,7 @@
  * get_specifier - finds the format func
  * @s: the format string
  *
- * Return: the number of bytes printed
+ * Return: the number of byte printed
  */
 int (*get_specifier(char *s))(va_list ap, params_t *params)
 {
